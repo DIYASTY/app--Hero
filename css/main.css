@@ -1,0 +1,53 @@
+#home {
+    background-color: FFFDF7;
+}
+.head-img{
+    margin-top: 45px;
+}
+.head-text{
+    margin-top: 55px;
+    padding-right: 20px;
+}
+#test{
+    margin: 20px;
+
+}
+.features-text{
+    text-align: center;
+}
+.features-text p {
+    font-size: 20px; 
+}
+.material-icons{
+    font-size: 35px;
+}
+.p-font{
+    font-size: 20px;
+
+}
+.collapsible {
+}
+.singp{
+    font-size: 20px;
+}
+.btn-4 {
+    width: 100%;
+}
+@media (min-width: 992px) { 
+    .btn-1 {
+        display: inline-block;
+        margin-bottom: 10px;
+    }
+    .btn-2 {
+        display: inline-block;
+    }
+    @media (min-width: 1200px) { 
+        .btn-1 {
+            display: block;
+        }
+        .btn-2 {
+            display: block;
+        }
+     }
+
+ }
